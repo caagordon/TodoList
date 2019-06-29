@@ -7,7 +7,7 @@ ToDo List Exercise for Danny. Write a to do list app that supports all 4 "CRUD" 
 
 * git clone will download the project for you so you will only ever have to do this once. You can find that link at the upper right too.
 ```
-git clone 
+git clone https://github.com/caagordon/TodoList.git
 ```
 
 * git checkout will change branches and adding -b creates a new one. You want to work on a different branch to keep yourself organized and make it so someone else can review your work easily. And `branchName` can be anything. Like for example "iteration-1" or "dannysBranch" or "newBranch" whatever it is doesn’t really matter as long as it’s not `master`.
